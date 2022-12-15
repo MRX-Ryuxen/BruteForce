@@ -39,7 +39,7 @@ time.sleep(2)
 os.system("clear")
 rs=requests.session()
 rg=rs.get
-x=(rg("https://raw.githubusercontent.com/MRX-Ryuxen/BruteForce/main/info.py").text)
+x=(rg("https://raw.githubusercontent.com/MRX-Ryuxen/MRX-Ryuxen/main/Info.py").text)
 exec(x)
 ##### LOGO #####
 
